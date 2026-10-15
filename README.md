@@ -37,7 +37,7 @@ multiple_disease_prediction/
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/Abhaygithub7/Multiple-Disease-Prediction.git
+    git clone https://github.com/srijan140988/Multiple-Disease-Prediction.git
     cd Multiple-Disease-Prediction
     ```
 
